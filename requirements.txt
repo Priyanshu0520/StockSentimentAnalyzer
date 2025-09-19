@@ -1,0 +1,7 @@
+streamlit
+praw
+yfinance
+beautifulsoup4
+transformers
+torch
+requests
