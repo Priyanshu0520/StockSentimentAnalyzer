@@ -5,3 +5,10 @@ beautifulsoup4
 transformers
 torch
 requests
+plotly
+matplotlib
+pandas
+numpy
+lxml
+html5lib
+nltk
